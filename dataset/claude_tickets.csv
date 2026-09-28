@@ -1,0 +1,201 @@
+ticket_id,ticket_description,category,priority,status
+T001,"Team, The report I downloaded has missing columns Please send it in PDF format.",Report,Medium,Closed
+T002,I am not able to log into the application from my laptop I already cleared my browser cache.,Login Issue,High,In Progress
+T003,"Hi, Password reset email is not arriving I tried it on both mobile and desktop.",Login Issue,Critical,Open
+T004,"Hi support, After updating my number I cannot login to the account.",Account Update,Low,In Progress
+T005,"Hi support, Please update my email address on the account Please confirm once it is done. Please help.",Account Update,Low,Closed
+T006,"Hi, Generating the sales report keeps failing with an error The finance team is waiting for it. Need this fixed soon.",Report,Medium,In Progress
+T007,"Good morning, The application shows an error while saving data I have attached a screenshot. Need this fixed soon.",Application Error,Medium,In Progress
+T008,"Hi support, Pages take too long to load Kindly assist.",Performance,Low,Open
+T009,"Hi, Search results are taking forever to appear Other team members face the same issue. Please advise.",Performance,Critical,Closed
+T010,"Hi support, I see a blank white screen after clicking submit It started after the latest update.",Application Error,Medium,In Progress
+T011,"Hello, Saving a record throws an unexpected exception I have attached a screenshot. Kindly assist.",Application Error,High,In Progress
+T012,"Team, The website is very sluggish on my connection It has been like this for two days.",Performance,High,In Progress
+T013,"Team, Loading the orders page takes more than a minute It was fine last week. This is affecting my work.",Performance,High,Open
+T014,"Team, Error while opening the report page, it shows a blank screen Please help.",Application Error,Critical,Closed
+T015,Please help. Loading the orders page takes more than a minute It has been like this for two days. Need this fixed soon.,Performance,Medium,In Progress
+T016,Urgent: Loading the orders page takes more than a minute It was fine last week.,Performance,Low,Open
+T017,Delete option gives an unknown error Please advise.,Application Error,Critical,In Progress
+T018,"Please change the account owner, the settings page is very slow Please advise.",Account Update,Low,Closed
+T019,I need to download the audit report for compliance Please advise.,Report,Critical,In Progress
+T020,Urgent: Saving a record throws an unexpected exception I have attached a screenshot. Kindly assist.,Application Error,High,Closed
+T021,I need to change the email used for notifications Please confirm once it is done. Thanks.,Account Update,Low,In Progress
+T022,"Hello, My login session expires as soon as I enter the dashboard Thanks.",Login Issue,High,Open
+T023,"Team, I need to add a new user to our company account This is for our records. Please advise.",Account Update,Low,Closed
+T024,Please help. The scheduled report did not arrive this week.,Report,Low,Open
+T025,Please help. Delete option gives an unknown error Please advise.,Application Error,High,Open
+T026,Urgent: A bug causes duplicate entries and an error on save I have attached a screenshot. Please help.,Application Error,Critical,Open
+T027,"Team, Requesting a year-to-date expense report The finance team is waiting for it. Please help.",Report,Low,Closed
+T028,Please help. The application is showing a database connection error This happens every time I try. Thanks.,Application Error,Medium,In Progress
+T029,Please update my email address on the account The details are attached. Kindly assist.,Account Update,High,Open
+T030,Urgent: Requesting to change my account username Please confirm once it is done. Please advise.,Account Update,Medium,Open
+T031,Urgent: The login page keeps saying invalid credentials I already cleared my browser cache. This is affecting my work.,Login Issue,Medium,Closed
+T032,Urgent: The OTP for login is not being received on my phone I tried it on both mobile and desktop. Thanks.,Login Issue,High,Closed
+T033,Urgent: The app crashes whenever I open the settings page This happens every time I try.,Application Error,High,Open
+T034,I get an error whenever I try to sign in through the mobile app It started after the latest update. Kindly assist.,Application Error,Medium,In Progress
+T035,"Hi support, Requesting to change my account username The details are attached.",Account Update,Medium,Closed
+T036,"Hi support, Can you share the annual revenue report It is needed for tomorrow's meeting. Need this fixed soon.",Report,Medium,In Progress
+T037,"Hello, Please transfer the account ownership to my colleague This is affecting my work.",Account Update,High,Open
+T038,"Hello, I need to change my registered mobile number Please confirm once it is done.",Account Update,Low,In Progress
+T039,"Hi support, Uploading a small file takes ages Other team members face the same issue. This is affecting my work.",Performance,Critical,Open
+T040,Something went wrong when I tried to update my account details I have attached a screenshot. Kindly assist.,Application Error,High,Open
+T041,Urgent: I get an error whenever I try to sign in through the mobile app I have attached a screenshot.,Application Error,Low,Open
+T042,Everything is slow after the latest update and I see errors This is affecting my work.,Performance,High,Open
+T043,"The login page is very slow and then shows an error, I still cannot sign in This started yesterday.",Login Issue,High,Closed
+T044,"Hello, The reset password link has expired again This started yesterday.",Login Issue,High,In Progress
+T045,"Team, I need to add a new user to our company account Please confirm once it is done.",Account Update,Low,Closed
+T046,"Team, The app is slow when I generate a report Other team members face the same issue.",Performance,Medium,In Progress
+T047,I keep getting logged out immediately after signing in This started yesterday. Please help.,Login Issue,High,In Progress
+T048,"Hello, I entered the correct password but the system denies access I tried it on both mobile and desktop.",Login Issue,Medium,In Progress
+T049,"Team, I would like to close my old account and update details on the new one.",Account Update,Medium,Closed
+T050,"Hi, Report export to Excel is giving an empty sheet The finance team is waiting for it. Need this fixed soon.",Report,Medium,In Progress
+T051,"Team, Please send the login activity report for our users.",Report,High,Open
+T052,The system hangs for a long time before responding It has been like this for two days. Kindly assist.,Performance,High,Closed
+T053,The login page keeps saying invalid credentials.,Login Issue,High,Closed
+T054,"Good morning, Kindly update my billing address Please help.",Account Update,Low,Closed
+T055,"Hello, The monthly report shows wrong account details Please send it in PDF format.",Report,Low,Closed
+T056,Urgent: The application crashed while I was generating a report It started after the latest update. Kindly assist.,Application Error,High,Closed
+T057,Kindly update my billing address This is for our records. Thanks.,Account Update,Low,Closed
+T058,Kindly generate a customer activity report for March The finance team is waiting for it. Please help.,Report,Low,In Progress
+T059,Everything is running extremely slow since this morning It has been like this for two days. Kindly assist.,Performance,Low,Open
+T060,"Team, Please schedule a daily report to my email The finance team is waiting for it. Need this fixed soon.",Report,Low,Closed
+T061,"Hello, The website is very sluggish on my connection It has been like this for two days. Thanks.",Performance,High,In Progress
+T062,Urgent: Need a custom report filtered by region and date The finance team is waiting for it.,Report,Medium,In Progress
+T063,"Hi, I entered the correct password but the system denies access I already cleared my browser cache. This is affecting my work.",Login Issue,High,Open
+T064,Urgent: I am not able to log into the application from my laptop I already cleared my browser cache. Please advise.,Login Issue,High,Closed
+T065,"Hi, Login takes forever and my password is rejected This started yesterday. Please advise.",Login Issue,High,Closed
+T066,"Hi support, The monthly report shows wrong account details The finance team is waiting for it.",Report,Low,Closed
+T067,A bug causes duplicate entries and an error on save This happens every time I try.,Application Error,High,Closed
+T068,Loading the orders page takes more than a minute Other team members face the same issue.,Performance,Low,In Progress
+T069,"Hi support, Please help me generate my monthly sales report This is affecting my work.",Report,High,Closed
+T070,Please help. I want to update the shipping address saved in my profile This is for our records.,Account Update,High,In Progress
+T071,"Hi support, The app throws a null pointer error on the orders page It started after the latest update. Please advise.",Application Error,High,In Progress
+T072,"Team, Can you correct the spelling of my name in the account This is for our records. Thanks.",Account Update,Medium,In Progress
+T073,Screen transitions in the app are painfully slow It was fine last week. Need this fixed soon.,Performance,Medium,Open
+T074,"Team, A bug causes duplicate entries and an error on save I have attached a screenshot. Please help.",Application Error,High,Open
+T075,"Good morning, I cannot download the report because the page shows an error Please send it in PDF format. Please help.",Report,Medium,Closed
+T076,Urgent: Report page asks me to login again and again Please advise.,Report,Low,In Progress
+T077,My account got locked after too many login attempts Please advise.,Login Issue,High,In Progress
+T078,"Team, I want to change the name on my profile This is for our records. Thanks.",Account Update,Medium,In Progress
+T079,"Hi, The report I downloaded has missing columns Please send it in PDF format. This is affecting my work.",Report,Low,In Progress
+T080,"Hi, Requesting a year-to-date expense report The finance team is waiting for it. Kindly assist.",Report,Medium,In Progress
+T081,"Hi, I cannot log in even after resetting my password I tried it on both mobile and desktop. Please advise.",Login Issue,High,In Progress
+T082,I updated my profile and the application threw an error It started after the latest update. Please help.,Application Error,Critical,In Progress
+T083,Please help. The application quits unexpectedly while editing a record This happens every time I try. Please help.,Application Error,Low,Closed
+T084,The system hangs for a long time before responding Kindly assist.,Performance,High,Open
+T085,"Hello, The application is very slow today Other team members face the same issue.",Performance,Medium,Open
+T086,"Team, The PDF report is missing the charts section Please send it in PDF format. Kindly assist.",Report,Medium,In Progress
+T087,"Team, The dashboard takes several minutes to open Other team members face the same issue. Kindly assist.",Performance,Critical,Open
+T088,"Hello, I got an error message when I tried to reset my password Please help.",Login Issue,Critical,Open
+T089,"Hi support, The app becomes unresponsive when many users are online Other team members face the same issue. Please help.",Performance,High,Open
+T090,The application is showing a database connection error I have attached a screenshot. Need this fixed soon.,Application Error,Critical,Closed
+T091,"Good morning, Two-factor authentication code is rejected every time This started yesterday.",Login Issue,High,Open
+T092,"Good morning, Please transfer the account ownership to my colleague Please confirm once it is done. This is affecting my work.",Account Update,High,Closed
+T093,"Hi support, I need the attendance report for last month It is needed for tomorrow's meeting.",Report,Critical,Open
+T094,Please help. The app throws an error at the login screen every time Thanks.,Login Issue,Medium,In Progress
+T095,"Hi support, I am unable to sign in to my account This started yesterday. Please advise.",Login Issue,Medium,Open
+T096,"Good morning, Everything is slow after the latest update and I see errors It has been like this for two days.",Performance,Medium,Closed
+T097,"Please help. Need to add a new user, the page shows an error when I try Please advise.",Account Update,High,Open
+T098,It says my username does not exist but I have used it before Please advise.,Login Issue,High,Closed
+T099,"Hi, Single sign-on is not working for my account This started yesterday. Kindly assist.",Login Issue,High,In Progress
+T100,Please help. I want to update my communication preferences The details are attached. Kindly assist.,Account Update,High,In Progress
+T101,Urgent: The OTP for login is not being received on my phone I already cleared my browser cache. Kindly assist.,Login Issue,High,Closed
+T102,"Hi, My account details changed and now my password does not work Thanks.",Login Issue,High,Open
+T103,"Update my phone number, the old one is not in use Please advise.",Account Update,Low,Open
+T104,"Team, I need to update my company details in the profile.",Account Update,High,In Progress
+T105,"Team, Need a custom report filtered by region and date Please send it in PDF format. This is affecting my work.",Report,Low,In Progress
+T106,"Team, I need to change the email used for notifications Please confirm once it is done. Please help.",Account Update,Medium,Open
+T107,Please help. The OTP for login is not being received on my phone I already cleared my browser cache. Please help.,Login Issue,Medium,In Progress
+T108,"Hello, I see a blank white screen after clicking submit I have attached a screenshot.",Application Error,High,Open
+T109,"Good morning, The monthly report shows wrong account details It is needed for tomorrow's meeting. Please advise.",Report,Low,Open
+T110,I want to update my communication preferences This is for our records. Please advise.,Account Update,High,Closed
+T111,"Hello, The application is slow and keeps timing out Other team members face the same issue.",Performance,Medium,Closed
+T112,The login page keeps saying invalid credentials I already cleared my browser cache. Please help.,Login Issue,High,In Progress
+T113,"Hi support, Reports open very slowly and sometimes fail Other team members face the same issue.",Performance,High,In Progress
+T114,"Team, Need to add a new user, the page shows an error when I try This is for our records. Please help.",Account Update,Critical,Open
+T115,"Hi support, Data is not getting saved and an error appears This happens every time I try.",Application Error,Critical,Closed
+T116,"Team, I need to change the email used for notifications This is for our records.",Account Update,Critical,Closed
+T117,I see a blank white screen after clicking submit I have attached a screenshot. Thanks.,Application Error,High,Open
+T118,The upload feature fails with an error code It started after the latest update. Please help.,Application Error,Medium,In Progress
+T119,"Good morning, Loading the orders page takes more than a minute.",Performance,High,Open
+T120,"Team, The reset password link has expired again.",Login Issue,High,Open
+T121,"Team, Delete option gives an unknown error This happens every time I try. Thanks.",Application Error,Low,In Progress
+T122,"Hi support, Please provide an inventory report for the last 30 days The finance team is waiting for it. Need this fixed soon.",Report,Low,Open
+T123,"Urgent: Need to add a new user, the page shows an error when I try The details are attached. This is affecting my work.",Account Update,Critical,Open
+T124,After updating my number I cannot login to the account.,Account Update,Low,Closed
+T125,I am unable to sign in to my account.,Login Issue,Critical,In Progress
+T126,"Good morning, My login session expires as soon as I enter the dashboard I tried it on both mobile and desktop. Need this fixed soon.",Login Issue,Medium,Open
+T127,Urgent: The software is so slow that we cannot finish our tasks Other team members face the same issue. Thanks.,Performance,Medium,Closed
+T128,"Hi, I want to change the name on my profile Please confirm once it is done. This is affecting my work.",Account Update,Low,In Progress
+T129,"Team, The PDF report is missing the charts section It is needed for tomorrow's meeting. Please advise.",Report,Medium,Open
+T130,Urgent: Login takes forever and my password is rejected I tried it on both mobile and desktop.,Login Issue,High,Closed
+T131,"Team, Uploading a small file takes ages It has been like this for two days. Please help.",Performance,Medium,Closed
+T132,"Hello, I see a blank white screen after clicking submit.",Application Error,Low,Closed
+T133,Kindly generate a customer activity report for March.,Report,High,Closed
+T134,"Hi, Need to add a new user, the page shows an error when I try.",Account Update,Medium,Closed
+T135,"Good morning, The application quits unexpectedly while editing a record I have attached a screenshot.",Application Error,Critical,Open
+T136,"Hello, Can you correct the spelling of my name in the account The details are attached. Thanks.",Account Update,Low,Closed
+T137,Urgent: My login session expires as soon as I enter the dashboard This started yesterday. This is affecting my work.,Login Issue,Medium,Open
+T138,Where can I find the monthly billing statement report The finance team is waiting for it.,Report,Low,Closed
+T139,A bug causes duplicate entries and an error on save This happens every time I try. Kindly assist.,Application Error,Medium,In Progress
+T140,Please change the primary contact for our organisation Please confirm once it is done.,Account Update,Medium,Closed
+T141,It takes a long time to switch between tabs in the app It was fine last week. Please help.,Performance,Medium,In Progress
+T142,"Good morning, There is a significant delay when saving records It has been like this for two days. This is affecting my work.",Performance,Medium,In Progress
+T143,"Hello, Response time has degraded a lot over the past week It has been like this for two days. Need this fixed soon.",Performance,High,Closed
+T144,Saving a record throws an unexpected exception I have attached a screenshot. Please advise.,Application Error,High,Closed
+T145,Urgent: Can you share the annual revenue report Please send it in PDF format.,Report,Low,In Progress
+T146,"The login page is very slow and then shows an error, I still cannot sign in I tried it on both mobile and desktop. Thanks.",Login Issue,Medium,Open
+T147,"Good morning, I am unable to sign in to my account I already cleared my browser cache. Need this fixed soon.",Login Issue,Medium,In Progress
+T148,Please help. The scheduled report did not arrive this week It is needed for tomorrow's meeting. This is affecting my work.,Report,Low,Open
+T149,Urgent: Report export to Excel is giving an empty sheet Please advise.,Report,Low,In Progress
+T150,"Team, I want a performance summary report for my team Please advise.",Report,Medium,Open
+T151,Please help. The website is very sluggish on my connection It has been like this for two days. This is affecting my work.,Performance,Critical,Open
+T152,"Hello, The application is slow and keeps timing out.",Performance,High,Open
+T153,Please provide an inventory report for the last 30 days Please send it in PDF format. Thanks.,Report,Medium,In Progress
+T154,I am unable to sign in to my account This started yesterday. Kindly assist.,Login Issue,Critical,Open
+T155,"Hi, Password reset email is not arriving I tried it on both mobile and desktop. Need this fixed soon.",Login Issue,High,Open
+T156,Please help. I get a 500 internal server error when submitting the form I have attached a screenshot. Please help.,Application Error,Low,Closed
+T157,"Hi, The system hangs for a long time before responding Other team members face the same issue. Kindly assist.",Performance,Medium,In Progress
+T158,"Hello, I need to update my company details in the profile.",Account Update,Low,Closed
+T159,"Team, I entered the correct password but the system denies access I tried it on both mobile and desktop.",Login Issue,Critical,Open
+T160,"Hi, I updated my profile and the application threw an error Thanks.",Application Error,Low,Open
+T161,"Good morning, Report pages open very slowly compared to last month It was fine last week.",Performance,High,Closed
+T162,"Team, I need to update my company details in the profile Please confirm once it is done. This is affecting my work.",Account Update,Low,In Progress
+T163,Urgent: The website is very sluggish on my connection It was fine last week. This is affecting my work.,Performance,Low,Open
+T164,Urgent: Everything is running extremely slow since this morning Need this fixed soon.,Performance,Medium,In Progress
+T165,"Hi, Attachments cannot be uploaded, the app returns an error I have attached a screenshot. This is affecting my work.",Application Error,High,Open
+T166,"Hi, Data is not getting saved and an error appears This happens every time I try. Please advise.",Application Error,Medium,Open
+T167,"Good morning, I need the attendance report for last month The finance team is waiting for it. Please advise.",Report,Low,Closed
+T168,"Hi, The app crashes whenever I open the settings page This happens every time I try. Kindly assist.",Application Error,High,In Progress
+T169,"Team, The system is lagging and I get logged out often It has been like this for two days.",Performance,Critical,Closed
+T170,A bug causes duplicate entries and an error on save.,Application Error,High,Closed
+T171,Please help. Form validation error appears even with correct inputs It started after the latest update.,Application Error,Medium,In Progress
+T172,Please schedule a daily report to my email Thanks.,Report,Medium,Closed
+T173,"Hello, I forgot my password and cannot login This started yesterday. Please advise.",Login Issue,Critical,In Progress
+T174,The application shows an error while saving data It started after the latest update.,Application Error,Medium,Closed
+T175,"Hello, Loading the orders page takes more than a minute Other team members face the same issue.",Performance,Medium,Open
+T176,The app is slow when I generate a report Other team members face the same issue.,Performance,Medium,Open
+T177,I want to change the name on my profile The details are attached.,Account Update,Low,Open
+T178,"Good morning, My account details changed and now my password does not work I tried it on both mobile and desktop.",Login Issue,Medium,In Progress
+T179,"I cannot log in to change my mobile number, please update it for me.",Account Update,High,Closed
+T180,Reports open very slowly and sometimes fail Other team members face the same issue. Kindly assist.,Performance,High,In Progress
+T181,"Good morning, The login page keeps saying invalid credentials I tried it on both mobile and desktop. Thanks.",Login Issue,High,Open
+T182,Saving a record throws an unexpected exception This happens every time I try.,Application Error,Critical,In Progress
+T183,"Team, I need to change the email used for notifications The details are attached. This is affecting my work.",Account Update,Low,Closed
+T184,Urgent: I need to change my registered mobile number This is affecting my work.,Account Update,Medium,Open
+T185,"Good morning, Update my phone number, the old one is not in use This is for our records.",Account Update,Medium,Closed
+T186,"Hi support, The weekly summary report is not being generated Please send it in PDF format.",Report,Low,Closed
+T187,I need a report of all tickets closed last quarter Please send it in PDF format. Please help.,Report,Low,In Progress
+T188,Urgent: I want a report on how slow the application has been this week The finance team is waiting for it. Need this fixed soon.,Report,Low,Closed
+T189,The weekly summary report is not being generated Please send it in PDF format. Please help.,Report,Medium,Open
+T190,"Team, Something went wrong when I tried to update my account details This is affecting my work.",Application Error,Low,In Progress
+T191,"Hello, I need to add a new user to our company account Please confirm once it is done.",Account Update,Low,In Progress
+T192,Urgent: Reports open very slowly and sometimes fail It was fine last week. This is affecting my work.,Performance,Medium,Closed
+T193,Please help. It says my username does not exist but I have used it before I tried it on both mobile and desktop. Kindly assist.,Login Issue,High,Closed
+T194,The application is slow and keeps timing out Other team members face the same issue.,Performance,High,Closed
+T195,"Hello, The application quits unexpectedly while editing a record Need this fixed soon.",Application Error,Medium,Closed
+T196,Urgent: Can you share the annual revenue report The finance team is waiting for it. This is affecting my work.,Report,Low,Closed
+T197,"Hi support, I cannot log in even after resetting my password I already cleared my browser cache. Please help.",Login Issue,Medium,Closed
+T198,"Team, The dashboard report shows incorrect totals Please send it in PDF format. Kindly assist.",Report,Medium,Open
+T199,"Hi support, There is a significant delay when saving records Need this fixed soon.",Performance,High,Open
+T200,"Hello, Please help me generate my monthly sales report Thanks.",Report,Low,Open

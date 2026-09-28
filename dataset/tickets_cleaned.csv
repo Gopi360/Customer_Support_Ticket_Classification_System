@@ -1,0 +1,712 @@
+ticket_id,ticket_description,category,priority,status,clean_description
+T001,"I'm having an issue with the {product_purchased}. Please assist.
+
+The product is still available. Please assist. Please assist.
+
+Notification: Please assist with this order. The package is ready to ship at 1 The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Product inquiry,Medium,Pending Customer Response,im having an issue with the please assist the product is still available please assist please assist notification please assist with this order the package is ready to ship at 1 the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T002,"I'm having an issue with the {product_purchased}. Please assist.
+
+You can download the full details of this policy for Windows 10 with the installer. If you want to see all the benefits of using Windows 10, you can I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Billing inquiry,Critical,Pending Customer Response,im having an issue with the please assist you can download the full details of this policy for windows 10 with the installer if you want to see all the benefits of using windows 10 you can ive noticed a peculiar error message popping up on my screen it says what does it mean
+T003,"I'm having an issue with the {product_purchased}. Please assist.
+
+Add-on:
+
+0.1x-0.2x-0.3x Available for: All
+
+Add-on: I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Billing inquiry,High,Closed,im having an issue with the please assist addon 01x02x03x available for all addon ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T004,"I'm having an issue with the {product_purchased}. Please assist. Sorry!
+
+If you're purchasing something, use the link to redeem your purchase
+
+if it's not already available. Click here to redeem the purchase I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Refund request,High,Open,im having an issue with the please assist sorry if youre purchasing something use the link to redeem your purchase if its not already available click here to redeem the purchase ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T005,"I'm having an issue with the {product_purchased}. Please assist. Please tell all your friends to pick up the {product_purchased}.
+
+1. Click the ""Store Available"" check box in the bottom right next I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Refund request,Critical,Pending Customer Response,im having an issue with the please assist please tell all your friends to pick up the 1 click the store available check box in the bottom right next ive followed the troubleshooting steps mentioned in the user manual but the issue persists
+T006,"I'm having an issue with the {product_purchased}. Please assist. - No shipping (1 to 10 days). See details below.
+
+
+Returns
+
+All purchases placed before 13th August 2013 must be received and credited within the This problem started occurring after the recent software update. I haven't made any other changes to the device.",Product inquiry,Medium,Pending Customer Response,im having an issue with the please assist no shipping 1 to 10 days see details below returns all purchases placed before 13th august 2013 must be received and credited within the this problem started occurring after the recent software update i havent made any other changes to the device
+T007,"I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the {product_purchased}. Please assist. I understand these issues will be reviewed in detail, and I apologize. The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Cancellation request,Low,Open,im having an issue with the please assist im having an issue with the please assist i understand these issues will be reviewed in detail and i apologize the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T008,"I'm having an issue with the {product_purchased}. Please assist. It is very important to us that you understand that this order does not comply with the terms and conditions of any of our other orders
+
+* You can order anything This problem started occurring after the recent software update. I haven't made any other changes to the device.",Technical issue,Critical,Closed,im having an issue with the please assist it is very important to us that you understand that this order does not comply with the terms and conditions of any of our other orders you can order anything this problem started occurring after the recent software update i havent made any other changes to the device
+T009,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. What, is it not my {product_ I've already contacted customer support multiple times, but the issue remains unresolved.",Technical issue,Medium,Closed,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond what is it not my product_ ive already contacted customer support multiple times but the issue remains unresolved
+T010,"I'm having an issue with the {product_purchased}. Please assist. Please be responsible. I'd love to get a refund for your order.
+
+Was this review helpful to you? Yes (0) 100%
+
+This I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Cancellation request,Low,Closed,im having an issue with the please assist please be responsible id love to get a refund for your order was this review helpful to you yes 0 100 this im unable to find the option to perform the desired action in the could you please guide me through the steps
+T011,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+The product received a {product_purchased} from Amazon to determine whether you are able to purchase it.
+
+
+This Product is NOT a "" The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Cancellation request,Low,Open,im having an issue with the please assist the product received a from amazon to determine whether you are able to purchase it this product is not a the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T012,"I'm having an issue with the {product_purchased}. Please assist.
+
+* This service may expirebottle on a timely basis.
+
+* * This service may not resolve your issue. Please contact us directly
+
+* I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Technical issue,Critical,Open,im having an issue with the please assist this service may expirebottle on a timely basis this service may not resolve your issue please contact us directly ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T013,"I'm having an issue with the {product_purchased}. Please assist.
+
+The items within are a direct replacement for what was removed.
+
+They can also be replaced with something else for a price at the time of the order I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",Technical issue,Low,Closed,im having an issue with the please assist the items within are a direct replacement for what was removed they can also be replaced with something else for a price at the time of the order ive tried using different cables adapters or peripherals with my but the issue persists
+T014,"I'm having an issue with the {product_purchased}. Please assist.
+
+# # {product_purchased} is the product we received last time.
+
+# # {product_purchased} will expire on I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Cancellation request,Critical,Open,im having an issue with the please assist is the product we received last time will expire on ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T015,"I'm having an issue with the {product_purchased}. Please assist. Thanks!""
+
+""Hm? I will not accept products from your customer service department. The products you offer are not our products."", reply reply reply ""I I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",Technical issue,Critical,Open,im having an issue with the please assist thanks hm i will not accept products from your customer service department the products you offer are not our products reply reply reply i ive tried clearing the cache and data for the app but the issue persists
+T016,I'm having an issue with the {product_purchased}. Please assist. I need assistance as soon as possible because it's affecting my work and productivity.,Technical issue,Critical,Closed,im having an issue with the please assist i need assistance as soon as possible because its affecting my work and productivity
+T017,"I'm having an issue with the {product_purchased}. Please assist. Thank you
+
+https://www.dropbox.com/s/wpppi-q3jh1m1r/b6mj I've tried different settings and configurations on my {product_purchased}, but the issue persists.",Cancellation request,High,Open,im having an issue with the please assist thank you httpswwwdropboxcomswpppiq3jh1m1rb6mj ive tried different settings and configurations on my but the issue persists
+T018,"I'm having an issue with the {product_purchased}. Please assist. Please describe what you plan to support in the purchase, the price you are willing to pay, and the item's description. This will then display the product's price I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Refund request,Critical,Open,im having an issue with the please assist please describe what you plan to support in the purchase the price you are willing to pay and the items description this will then display the products price ive noticed a sudden decrease in battery life on my it used to last much longer
+T019,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+1. Use the Search Engine instead of google. We will find what is needed and then ship the product. I will do everything in writing if it works I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Product inquiry,Medium,Open,im having an issue with the please assist 1 use the search engine instead of google we will find what is needed and then ship the product i will do everything in writing if it works ive noticed a sudden decrease in battery life on my it used to last much longer
+T020,"I'm having an issue with the {product_purchased}. Please assist.
+
+Product ID: 0
+
+Date of Use: 04/18/2018
+
+format: wb
+
+league: uk
+
+playback I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Cancellation request,Low,Open,im having an issue with the please assist product id 0 date of use 04182018 format wb league uk playback ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T021,"I'm having an issue with the {product_purchased}. Please assist. (4) There are no refunds or exchanges for this item.
+
+This item doesn't belong on this page. I've tried troubleshooting steps mentioned in the user manual, but the issue persists.",Refund request,Critical,Closed,im having an issue with the please assist 4 there are no refunds or exchanges for this item this item doesnt belong on this page ive tried troubleshooting steps mentioned in the user manual but the issue persists
+T022,"I'm having an issue with the {product_purchased}. Please assist.
+thanx: The {product_purchased} was shipped to an incorrect address
+
+for an order that it hadn't been delivered.
+
+
+Thank I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",Billing inquiry,High,Open,im having an issue with the please assist thanx the was shipped to an incorrect address for an order that it hadnt been delivered thank ive tried clearing the cache and data for the app but the issue persists
+T023,"I'm facing issues logging into my {product_purchased} account. It says my account is locked. What should I do to unlock it? Is there a way I can force it to unlock? Please share your thoughts in the comments. I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Refund request,Low,Closed,im facing issues logging into my account it says my account is locked what should i do to unlock it is there a way i can force it to unlock please share your thoughts in the comments ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T024,"I'm having an issue with the {product_purchased}. Please assist. Please notify me if any additional issues are occurring (if not, I'll update the post). ~~~~~ # ######################################################### # The Product ID of I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Product inquiry,High,Open,im having an issue with the please assist please notify me if any additional issues are occurring if not ill update the post the product id of im unable to find the option to perform the desired action in the could you please guide me through the steps
+T025,"I'm having an issue with the {product_purchased}. Please assist.
+
+If your customer orders a defective product within 30 days after placing it, we will notify them in writing of the change and provide you with an opportunity to replace I've already contacted customer support multiple times, but the issue remains unresolved.",Cancellation request,Medium,Open,im having an issue with the please assist if your customer orders a defective product within 30 days after placing it we will notify them in writing of the change and provide you with an opportunity to replace ive already contacted customer support multiple times but the issue remains unresolved
+T026,"I'm having an issue with the {product_purchased}. Please assist.
+
+""But of course for everyone to have this sort of thing, this is the biggest question"" says Hochschild. ""What are those numbers? How I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Cancellation request,Critical,Open,im having an issue with the please assist but of course for everyone to have this sort of thing this is the biggest question says hochschild what are those numbers how ive followed the troubleshooting steps mentioned in the user manual but the issue persists
+T027,I'm having an issue with the {product_purchased}. Please assist. This problem started occurring after the recent software update. I haven't made any other changes to the device.,Product inquiry,Low,Pending Customer Response,im having an issue with the please assist this problem started occurring after the recent software update i havent made any other changes to the device
+T028,"I'm having an issue with the {product_purchased}. Please assist. As I said, they still haven't confirmed if they do, but we know some buyers have had issues.
+
+
+-C
+
+Quote from: das I've checked for any available software updates for my {product_purchased}, but there are none.",Cancellation request,Low,Open,im having an issue with the please assist as i said they still havent confirmed if they do but we know some buyers have had issues c quote from das ive checked for any available software updates for my but there are none
+T029,"I'm having an issue with the {product_purchased}. Please assist.
+
+Thank you.
+
+{product_id}
+
+}
+
+}
+
+I have had this device for about 6 months.
+
+
+I I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Refund request,Medium,Pending Customer Response,im having an issue with the please assist thank you i have had this device for about 6 months i ive noticed a sudden decrease in battery life on my it used to last much longer
+T030,"I've accidentally deleted important data from my {product_purchased}. Is there any way to recover the deleted files? I need them urgently. Thanks from the manufacturer
+
+from the manufacturer Hi,
+
+This has not been resolved. I'm worried that the issue might be hardware-related and might require repair or replacement.",Refund request,Critical,Closed,ive accidentally deleted important data from my is there any way to recover the deleted files i need them urgently thanks from the manufacturer from the manufacturer hi this has not been resolved im worried that the issue might be hardwarerelated and might require repair or replacement
+T031,"I'm having an issue with the {product_purchased}. Please assist. Thank you. 2) I'm starting to get a problem, so I'm posting it here. 3) Here you have the answer. It's simple, it This problem started occurring after the recent software update. I haven't made any other changes to the device.",Billing inquiry,Low,Closed,im having an issue with the please assist thank you 2 im starting to get a problem so im posting it here 3 here you have the answer its simple it this problem started occurring after the recent software update i havent made any other changes to the device
+T032,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account? Login with your account's username: Yes.
+
+Your password will expire for 10 days I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Billing inquiry,High,Open,ive forgotten my password for my account and the password reset option is not working how can i recover my account login with your accounts username yes your password will expire for 10 days im concerned about the security of my and would like to ensure that my data is safe
+T033,"I'm having an issue with the {product_purchased}. Please assist.
+
+#8) If you spec a product that you do not sell, you've provided the vendor with an 'Exclusive Promotional Code' to claim 1 This problem started occurring after the recent software update. I haven't made any other changes to the device.",Cancellation request,Low,Pending Customer Response,im having an issue with the please assist 8 if you spec a product that you do not sell youve provided the vendor with an exclusive promotional code to claim 1 this problem started occurring after the recent software update i havent made any other changes to the device
+T034,"I'm having an issue with the {product_purchased}. Please assist. I know our customer service has been on our to-do list for quite some time now, but, uh, we'll be doing the best we can. -- I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Cancellation request,High,Pending Customer Response,im having an issue with the please assist i know our customer service has been on our todo list for quite some time now but uh well be doing the best we can ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T035,"I'm having an issue with the {product_purchased}. Please assist. — CITIZEN_ROOM #define PENDING_WIFI_REBOOTING_MODE 8
+
+Here is an overview page for I need assistance as soon as possible because it's affecting my work and productivity.",Refund request,Critical,Open,im having an issue with the please assist citizen_room define pending_wifi_rebooting_mode 8 here is an overview page for i need assistance as soon as possible because its affecting my work and productivity
+T036,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? 1) Connect the router and I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Product inquiry,Low,Closed,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue 1 connect the router and ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T037,"I'm having an issue with the {product_purchased}. Please assist.
+
+This is incorrect. After your order has been opened, its content will be removed from your account. I'm worried that the issue might be hardware-related and might require repair or replacement.",Refund request,High,Closed,im having an issue with the please assist this is incorrect after your order has been opened its content will be removed from your account im worried that the issue might be hardwarerelated and might require repair or replacement
+T038,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+Thank you,
+
+RSSfeed
+
+I'm having an issue with the {product_purchased}. Please assist.Thank you,R I'm not sure if this issue is specific to my device or if others have reported similar problems.",Refund request,Low,Closed,im having an issue with the please assist thank you rssfeed im having an issue with the please assistthank your im not sure if this issue is specific to my device or if others have reported similar problems
+T039,"I'm having an issue with the {product_purchased}. Please assist. Thanks.
+
+4. How do you respond to feedback about products that aren't listed?
+
+I try and avoid products on the sites that don't list I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Technical issue,Medium,Closed,im having an issue with the please assist thanks 4 how do you respond to feedback about products that arent listed i try and avoid products on the sites that dont list im concerned about the security of my and would like to ensure that my data is safe
+T040,"I'm having an issue with the {product_purchased}. Please assist.
+
+1) Make sure you are using the highest-level product selection and have the highest sales margin of any of the products (so, we have enough margin I've already contacted customer support multiple times, but the issue remains unresolved.",Cancellation request,Medium,Pending Customer Response,im having an issue with the please assist 1 make sure you are using the highestlevel product selection and have the highest sales margin of any of the products so we have enough margin ive already contacted customer support multiple times but the issue remains unresolved
+T041,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+""As a result of using the product you agree that your request is subject to the terms of this agreement""..
+
+You will be allowed to request I've tried different settings and configurations on my {product_purchased}, but the issue persists.",Cancellation request,Low,Pending Customer Response,im having an issue with the please assist as a result of using the product you agree that your request is subject to the terms of this agreement you will be allowed to request ive tried different settings and configurations on my but the issue persists
+T042,"I'm having an issue with the {product_purchased}. Please assist. The same issue has been seen on a number of companies, including eBay, Etsy, and other popular shops.
+
+I'm not seeing my own products. Sorry I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Technical issue,High,Closed,im having an issue with the please assist the same issue has been seen on a number of companies including ebay etsy and other popular shops im not seeing my own products sorry ive noticed a sudden decrease in battery life on my it used to last much longer
+T043,"I'm having an issue with the {product_purchased}. Please assist. $5.00 shipped. Please contact me with more information. $13.00 shipped. Please contact me with additional information.
+
+Reviews I've already contacted customer support multiple times, but the issue remains unresolved.",Billing inquiry,Medium,Open,im having an issue with the please assist 500 shipped please contact me with more information 1300 shipped please contact me with additional information reviews ive already contacted customer support multiple times but the issue remains unresolved
+T044,"I'm having an issue with the {product_purchased}. Please assist.
+
+The manufacturer may have selected the right product at any time and will post price information on the store's website. Please contact Customer Service for help. I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Billing inquiry,Critical,Pending Customer Response,im having an issue with the please assist the manufacturer may have selected the right product at any time and will post price information on the stores website please contact customer service for help im using the original charger that came with my but its not charging properly
+T045,"I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the ""I'm not receiving my order"" error log. Please assist.
+
+Please assist.
+
+I'm having I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Refund request,Critical,Open,im having an issue with the please assist im having an issue with the im not receiving my order error log please assist please assist im having ive followed online tutorials and community forums to troubleshoot the issue but no luck so far
+T046,"I'm having an issue with the {product_purchased}. Please assist. Thanks!!"" I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Technical issue,High,Closed,im having an issue with the please assist thanks ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T047,"I'm having an issue with the {product_purchased}. Please assist.
+
+• Add it here I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Billing inquiry,High,Closed,im having an issue with the please assist add it here im using the original charger that came with my but its not charging properly
+T048,"I'm having an issue with the {product_purchased}. Please assist.
+
+* Product is a free product for US residents only. I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Billing inquiry,Medium,Open,im having an issue with the please assist product is a free product for us residents only ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T049,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. I also cannot see a product ID. My I've checked for any available software updates for my {product_purchased}, but there are none.",Refund request,Low,Closed,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond i also cannot see a product id my ive checked for any available software updates for my but there are none
+T050,"I've encountered a data loss issue with my {product_purchased}. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them?
+
+Please let me know to post in the comments. I'm worried that the issue might be hardware-related and might require repair or replacement.",Product inquiry,Low,Pending Customer Response,ive encountered a data loss issue with my all the files and documents seem to have disappeared can you guide me on how to retrieve them please let me know to post in the comments im worried that the issue might be hardwarerelated and might require repair or replacement
+T051,"I'm having an issue with the {product_purchased}. Please assist.
+
+#2 - The $10 voucher must not exceed $50.00, which is $3.85 worth.
+
+#3 - The $2 The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Product inquiry,Critical,Closed,im having an issue with the please assist 2 the 10 voucher must not exceed 5000 which is 385 worth 3 the 2 the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T052,I'm having an issue with the {product_purchased}. Please assist. - This can make this issue disappear after 3 days (due to the time limit) - I have a small number of items that I want to trade that I am I need assistance as soon as possible because it's affecting my work and productivity.,Technical issue,High,Closed,im having an issue with the please assist this can make this issue disappear after 3 days due to the time limit i have a small number of items that i want to trade that i am i need assistance as soon as possible because its affecting my work and productivity
+T053,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+[20:37:22 PM] [Client thread/INFO] [PunisherPackManager]: Failed to connect to UnlockedPunisher package I've tried troubleshooting steps mentioned in the user manual, but the issue persists.",Billing inquiry,Low,Open,im having an issue with the please assist 203722 pm client threadinfo punisherpackmanager failed to connect to unlockedpunisher package ive tried troubleshooting steps mentioned in the user manual but the issue persists
+T054,"I'm having an issue with the {product_purchased}. Please assist. Please organis...
+
+Dramatic
+
+You are not logged in with a valid email address.
+
+Post a Comment
+
+Please confirm your name. I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Refund request,High,Closed,im having an issue with the please assist please organis dramatic you are not logged in with a valid email address post a comment please confirm your name im experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+T055,"I'm having an issue with the {product_purchased}. Please assist.
+
+The product was not made with O2.
+
+When you press F-4 in a product description, this might appear to mean that it is no I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Product inquiry,Medium,Open,im having an issue with the please assist the product was not made with o2 when you press f4 in a product description this might appear to mean that it is no ive followed the troubleshooting steps mentioned in the user manual but the issue persists
+T056,"I'm having an issue with the {product_purchased}. Please assist. :/ The cart is broken as of 3:01 PM and some data are missing. A check would certainly help to confirm. To continue using the cart, please I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Cancellation request,Critical,Open,im having an issue with the please assist the cart is broken as of 301 pm and some data are missing a check would certainly help to confirm to continue using the cart please ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T057,I'm having an issue with the {product_purchased}. Please assist. I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?,Refund request,Critical,Pending Customer Response,im having an issue with the please assist ive noticed a peculiar error message popping up on my screen it says what does it mean
+T058,"I'm having an issue with the {product_purchased}. Please assist. I know it's your fault, but I can't accept it in exchange. You're the owner of the product, and it's a free offer. If you I rely heavily on my {product_purchased} for my daily tasks, and this issue is hindering my productivity.",Product inquiry,Critical,Pending Customer Response,im having an issue with the please assist i know its your fault but i cant accept it in exchange youre the owner of the product and its a free offer if you i rely heavily on my for my daily tasks and this issue is hindering my productivity
+T059,I'm having an issue with the {product_purchased}. Please assist. You may have received a quantity less that is needed to fill your cart. Please check that your order has been shipped. Please make sure your payment method is Payment Card I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.,Technical issue,High,Pending Customer Response,im having an issue with the please assist you may have received a quantity less that is needed to fill your cart please check that your order has been shipped please make sure your payment method is payment card im concerned about the security of my and would like to ensure that my data is safe
+T060,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. I've tried my first 3 times to try I've checked for any available software updates for my {product_purchased}, but there are none.",Product inquiry,Critical,Closed,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond ive tried my first 3 times to try ive checked for any available software updates for my but there are none
+T061,"I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available?
+
+Yes. You can download any update you like. However, I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Technical issue,Low,Closed,im encountering a software bug in the whenever i try to perform a specific action the application crashes are there any updates or fixes available yes you can download any update you like however ive noticed a sudden decrease in battery life on my it used to last much longer
+T062,"I'm having an issue with the {product_purchased}. Please assist. I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",Product inquiry,Medium,Open,im having an issue with the please assist ive tried clearing the cache and data for the app but the issue persists
+T063,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution?
+
+If this works out for you, please provide this link in the following I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Billing inquiry,Low,Open,there seems to be a glitch in the software it freezes frequently making it difficult to use can you please provide a solution if this works out for you please provide this link in the following im experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+T064,"I'm having an issue with the {product_purchased}. Please assist.
+
+Product status: Sold. Please assist. I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Billing inquiry,Critical,Open,im having an issue with the please assist product status sold please assist ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem
+T065,"I'm having an issue with the {product_purchased}. Please assist. Thanks. #{product_purchased} {1} We've received a message claiming to be from an individual here, but we are unable to confirm who I've already contacted customer support multiple times, but the issue remains unresolved.",Billing inquiry,Critical,Closed,im having an issue with the please assist thanks weve received a message claiming to be from an individual here but we are unable to confirm who ive already contacted customer support multiple times but the issue remains unresolved
+T066,"I'm unable to access my {product_purchased} account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account?
+
+You can I'm worried that the issue might be hardware-related and might require repair or replacement.",Product inquiry,Medium,Open,im unable to access my account it keeps displaying an invalid credentials error even though im using the correct login information how can i regain access to my account you can im worried that the issue might be hardwarerelated and might require repair or replacement
+T067,"I'm having an issue with the {product_purchased}. Please assist.
+
+Product purchases are sold in person at www.giftstore.com and at the participating local restaurants and bars, and are intended for a limited number of I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Cancellation request,Medium,Pending Customer Response,im having an issue with the please assist product purchases are sold in person at wwwgiftstorecom and at the participating local restaurants and bars and are intended for a limited number of im using the original charger that came with my but its not charging properly
+T068,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution?
+
+The default settings of your game will make you fall. You may have I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Technical issue,Low,Pending Customer Response,there seems to be a glitch in the software it freezes frequently making it difficult to use can you please provide a solution the default settings of your game will make you fall you may have im unable to find the option to perform the desired action in the could you please guide me through the steps
+T069,I'm having an issue with the {product_purchased}. Please assist. {product_purchased} should not change. {product_purchased_payment} should not change. {product_purchased_product} I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.,Product inquiry,Medium,Pending Customer Response,im having an issue with the please assist should not change should not change ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T070,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please provide an appropriate warranty number.
+
+Your warranty has been clearly stated.
+
+
+We are making daily attempts to obtain a complete, accurate and current I've checked for any available software updates for my {product_purchased}, but there are none.",Refund request,Critical,Closed,im having an issue with the please assist please provide an appropriate warranty number your warranty has been clearly stated we are making daily attempts to obtain a complete accurate and current ive checked for any available software updates for my but there are none
+T071,"I'm having an issue with the {product_purchased}. Please assist.
+
+3. Go to http://mybrowsing.com/productsearch and type in {product_id}. Save any code you want. Repeat I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Cancellation request,Medium,Open,im having an issue with the please assist 3 go to httpmybrowsingcomproductsearch and type in save any code you want repeat ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T072,"I'm having an issue with the {product_purchased}. Please assist.
+
+You'll be taken to a page again with a message:
+
+
+Sorry there were no changes made. Please try again earlier.
+
+Sorry, there I've tried different settings and configurations on my {product_purchased}, but the issue persists.",Refund request,High,Open,im having an issue with the please assist youll be taken to a page again with a message sorry there were no changes made please try again earlier sorry there ive tried different settings and configurations on my but the issue persists
+T073,"I'm having an issue with the {product_purchased}. Please assist.
+
+The first thing you need to do when upgrading a product is to update your repository.
+
+git is a git remote that comes with everything you need to This problem started occurring after the recent software update. I haven't made any other changes to the device.",Technical issue,Critical,Closed,im having an issue with the please assist the first thing you need to do when upgrading a product is to update your repository git is a git remote that comes with everything you need to this problem started occurring after the recent software update i havent made any other changes to the device
+T074,"I'm having an issue with the {product_purchased}. Please assist. I've already contacted customer support multiple times, but the issue remains unresolved.",Cancellation request,Medium,Pending Customer Response,im having an issue with the please assist ive already contacted customer support multiple times but the issue remains unresolved
+T075,"I'm having an issue with the {product_purchased}. Please assist. Otherwise, your account may be lost in the future.
+
+I apologize for this issue. This problem started occurring after the recent software update. I haven't made any other changes to the device.",Product inquiry,Low,Pending Customer Response,im having an issue with the please assist otherwise your account may be lost in the future i apologize for this issue this problem started occurring after the recent software update i havent made any other changes to the device
+T076,"I'm having an issue with the {product_purchased}. Please assist. I received a small quantity last time. Please send out more as requested.
+
+
+I'm ordering 3 jars. So my main concern is: I'll need to I've already contacted customer support multiple times, but the issue remains unresolved.",Product inquiry,Medium,Pending Customer Response,im having an issue with the please assist i received a small quantity last time please send out more as requested im ordering 3 jars so my main concern is ill need to ive already contacted customer support multiple times but the issue remains unresolved
+T077,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+To recover your login, choose Create Account and then confirm Password.
+
+When I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Billing inquiry,Low,Closed,ive forgotten my password for my account and the password reset option is not working how can i recover my account to recover your login choose create account and then confirm password when ive noticed a peculiar error message popping up on my screen it says what does it mean
+T078,"I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? As far as I know, it appears that it is only the Software I need assistance as soon as possible because it's affecting my work and productivity.",Refund request,Low,Open,im encountering a software bug in the whenever i try to perform a specific action the application crashes are there any updates or fixes available as far as i know it appears that it is only the software i need assistance as soon as possible because its affecting my work and productivity
+T079,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please help support the mission of New Advent and get the full contents of this website as an instant download. Includes the Catholic Encyclopedia, Church Fathers, Summa This problem started occurring after the recent software update. I haven't made any other changes to the device.",Product inquiry,Low,Open,im having an issue with the please assist please help support the mission of new advent and get the full contents of this website as an instant download includes the catholic encyclopedia church fathers summa this problem started occurring after the recent software update i havent made any other changes to the device
+T080,"I'm having an issue with the {product_purchased}. Please assist.
+
+Thank you.
+
+The same guy who is already selling my house and is being charged with assault, theft, and battery in my home, also has I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Product inquiry,Critical,Open,im having an issue with the please assist thank you the same guy who is already selling my house and is being charged with assault theft and battery in my home also has ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T081,"I'm having an issue with the {product_purchased}. Please assist.
+
+The Product Purchase Policy on this application states: ""The product purchased is the authorized reseller and/or agent of the Authorized Retailer, whose authorization I've tried troubleshooting steps mentioned in the user manual, but the issue persists.",Billing inquiry,High,Pending Customer Response,im having an issue with the please assist the product purchase policy on this application states the product purchased is the authorized reseller andor agent of the authorized retailer whose authorization ive tried troubleshooting steps mentioned in the user manual but the issue persists
+T082,"There seems to be a hardware problem with my {product_purchased}. The screen is flickering, and I'm unable to use it. What should I do?
+
+
+You have to install a game like Tomb Raider 2, and then go The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Cancellation request,Critical,Pending Customer Response,there seems to be a hardware problem with my the screen is flickering and im unable to use it what should i do you have to install a game like tomb raider 2 and then go the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T083,"I'm having an issue with the {product_purchased}. Please assist.
+
+I'm getting my account locked because some payment information came back.
+
+Please go to My Account and check this, and try to restore the data. I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Cancellation request,High,Open,im having an issue with the please assist im getting my account locked because some payment information came back please go to my account and check this and try to restore the data im experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+T084,"I'm having an issue with the {product_purchased}. Please assist.
+
+Q: Why would you cancel something if it just says you only paid to be delivered, rather than say a product on a budget?
+
+A: I'm not sure if this issue is specific to my device or if others have reported similar problems.",Technical issue,Critical,Pending Customer Response,im having an issue with the please assist q why would you cancel something if it just says you only paid to be delivered rather than say a product on a budget a im not sure if this issue is specific to my device or if others have reported similar problems
+T085,"I'm having an issue with the {product_purchased}. Please assist. I'd love if it worked for everyone.
+
+
+The product ID was never displayed in the cart, was never sent the email address, and always sold out. I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Technical issue,Critical,Open,im having an issue with the please assist id love if it worked for everyone the product id was never displayed in the cart was never sent the email address and always sold out ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T086,"I'm having an issue with the {product_purchased}. Please assist. Thanks! [8:46:53] [Client thread/INFO]: Loading tweak class name cpw.mods.fml.relauncher.CoreModManager I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Product inquiry,Critical,Closed,im having an issue with the please assist thanks 84653 client threadinfo loading tweak class name cpwmodsfmlrelaunchercoremodmanager ive followed the troubleshooting steps mentioned in the user manual but the issue persists
+T087,I'm having an issue with the {product_purchased}. Please assist. I'm not sure if this issue is specific to my device or if others have reported similar problems.,Technical issue,Low,Pending Customer Response,im having an issue with the please assist im not sure if this issue is specific to my device or if others have reported similar problems
+T088,"I'm having an issue with the {product_purchased}. Please assist. (If that sounds like you, contact me.) My apologies for the confusion. It's really unfortunate that this issue has become so easy to solve for too many people This problem started occurring after the recent software update. I haven't made any other changes to the device.",Billing inquiry,Low,Closed,im having an issue with the please assist if that sounds like you contact me my apologies for the confusion its really unfortunate that this issue has become so easy to solve for too many people this problem started occurring after the recent software update i havent made any other changes to the device
+T089,"There seems to be a hardware problem with my {product_purchased}. The screen is flickering, and I'm unable to use it. What should I do? I'd download an OTT client that provides a more simple UI to make it I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Technical issue,Low,Closed,there seems to be a hardware problem with my the screen is flickering and im unable to use it what should i do id download an ott client that provides a more simple ui to make it ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T090,"I'm having an issue with the {product_purchased}. Please assist.
+
+4.3.0 * Added a list of your favorite features
+
+4.2.2 * Added an option to change the font size I've checked the device settings and made sure that everything is configured correctly.",Cancellation request,Medium,Closed,im having an issue with the please assist 430 added a list of your favorite features 422 added an option to change the font size ive checked the device settings and made sure that everything is configured correctly
+T091,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue?
+
+Here, a quick I've checked for software updates, and my {product_purchased} is already running the latest version.",Billing inquiry,Low,Pending Customer Response,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue here a quick ive checked for software updates and my is already running the latest version
+T092,"I'm having an issue with the {product_purchased}. Please assist. */
+
+p = g-> p_main_query_input. p_data ;
+
+if ( p % 5 == 0 && p % 10 == I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Refund request,High,Closed,im having an issue with the please assist p g p_main_query_input p_data if p 5 0 p 10 ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem
+T093,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+Do your best to get the right product for you as soon as you have purchased it from us. We can't guarantee every product will be the exact same I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Product inquiry,Low,Pending Customer Response,im having an issue with the please assist do your best to get the right product for you as soon as you have purchased it from us we cant guarantee every product will be the exact same ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T094,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? <michael_cat> I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Billing inquiry,Critical,Pending Customer Response,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue michael_cat ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T095,"I've noticed a software bug in the {product_purchased} app. It's causing data loss and unexpected errors. How can I resolve this issue? Simply download the data from the product.
+
+When using {product_paid} I've tried troubleshooting steps mentioned in the user manual, but the issue persists.",Billing inquiry,Critical,Open,ive noticed a software bug in the app its causing data loss and unexpected errors how can i resolve this issue simply download the data from the product when using ive tried troubleshooting steps mentioned in the user manual but the issue persists
+T096,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution?
+
+
+Well, now I can offer a workaround.
+
+
+Step 4. I'm worried that the issue might be hardware-related and might require repair or replacement.",Technical issue,High,Closed,there seems to be a glitch in the software it freezes frequently making it difficult to use can you please provide a solution well now i can offer a workaround step 4 im worried that the issue might be hardwarerelated and might require repair or replacement
+T097,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? To go to Settings>Network I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Refund request,High,Pending Customer Response,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue to go to settingsnetwork im concerned about the security of my and would like to ensure that my data is safe
+T098,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. I'm seeing issues. I'll try again I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Billing inquiry,Critical,Open,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond im seeing issues ill try again ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T099,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution? I would gladly give this program 100% to fix the problem....
+
+
+As I rely heavily on my {product_purchased} for my daily tasks, and this issue is hindering my productivity.",Billing inquiry,Medium,Closed,there seems to be a glitch in the software it freezes frequently making it difficult to use can you please provide a solution i would gladly give this program 100 to fix the problem as i rely heavily on my for my daily tasks and this issue is hindering my productivity
+T100,"I'm facing issues logging into my {product_purchased} account. It says my account is locked. What should I do to unlock it?
+
+The answer I got in my account setup file said that my account was locked for this I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Refund request,Medium,Pending Customer Response,im facing issues logging into my account it says my account is locked what should i do to unlock it the answer i got in my account setup file said that my account was locked for this ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T101,"I'm having an issue with the {product_purchased}. Please assist.
+
+We cannot understand your name, please contact us to verify.
+
+I am only interested in your product, Please choose to create a survey or email me I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Billing inquiry,High,Closed,im having an issue with the please assist we cannot understand your name please contact us to verify i am only interested in your product please choose to create a survey or email me im concerned about the security of my and would like to ensure that my data is safe
+T102,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please note that $1.95 per new order is a minimum order of $49.99.
+
+Please see this page about purchasing your next home I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Billing inquiry,Critical,Open,im having an issue with the please assist please note that 195 per new order is a minimum order of 4999 please see this page about purchasing your next home ive noticed a peculiar error message popping up on my screen it says what does it mean
+T103,"I'm having an issue with the {product_purchased}. Please assist.
+
+""Products that have been purchased at that time are now out of stock. Thank you for your support. The {product_purchased} will get I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Refund request,Critical,Open,im having an issue with the please assist products that have been purchased at that time are now out of stock thank you for your support the will get im using the original charger that came with my but its not charging properly
+T104,"I'm having an issue with the {product_purchased}. Please assist.
+
+*
+
+* This section describes the functionality of the {product_request.product_method}() method used by the Product Request Object. The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Refund request,Critical,Closed,im having an issue with the please assist this section describes the functionality of the method used by the product request object the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T105,"I've accidentally deleted important data from my {product_purchased}. Is there any way to recover the deleted files? I need them urgently.
+
+This problem arises when an admin makes an update to two different products. A big ""Hey I'm not sure if this issue is specific to my device or if others have reported similar problems.",Product inquiry,High,Pending Customer Response,ive accidentally deleted important data from my is there any way to recover the deleted files i need them urgently this problem arises when an admin makes an update to two different products a big hey im not sure if this issue is specific to my device or if others have reported similar problems
+T106,"I'm having an issue with the {product_purchased}. Please assist. Thank you.
+
+(9/9) – The problem does not appear to be related to the last (last sale) purchase when there is only 5 more I've tried different settings and configurations on my {product_purchased}, but the issue persists.",Refund request,Medium,Closed,im having an issue with the please assist thank you 99 the problem does not appear to be related to the last last sale purchase when there is only 5 more ive tried different settings and configurations on my but the issue persists
+T107,"I'm having an issue with the {product_purchased}. Please assist.
+
+Thank YOU, your patience. We may not always get to the truth.
+
+You are always welcome to add to, or remove from/from, I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Billing inquiry,Critical,Closed,im having an issue with the please assist thank you your patience we may not always get to the truth you are always welcome to add to or remove fromfrom ive followed the troubleshooting steps mentioned in the user manual but the issue persists
+T108,"I'm having an issue with the {product_purchased}. Please assist.
+
+It will then automatically receive the item to which it is being added, after which the transaction has been successful. It will then proceed to display the selected item I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Cancellation request,High,Open,im having an issue with the please assist it will then automatically receive the item to which it is being added after which the transaction has been successful it will then proceed to display the selected item ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T109,"My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? It's very frustrating.
+
+I also purchased my own computer while I was I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Product inquiry,Medium,Pending Customer Response,my is making strange noises and not functioning properly i suspect there might be a hardware issue can you please help me with this its very frustrating i also purchased my own computer while i was ive noticed a sudden decrease in battery life on my it used to last much longer
+T110,"I'm having an issue with the {product_purchased}. Please assist. This is a very limited product. Please consider other ways possible.
+
+Quantity: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Refund request,Low,Closed,im having an issue with the please assist this is a very limited product please consider other ways possible quantity 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 im unable to find the option to perform the desired action in the could you please guide me through the steps
+T111,"There seems to be a glitch in the {product_purchased} software. It freezes frequently, making it difficult to use. Can you please provide a solution?
+
+The last few hours have been a great distraction from my work since the I'm not sure if this issue is specific to my device or if others have reported similar problems.",Technical issue,Medium,Closed,there seems to be a glitch in the software it freezes frequently making it difficult to use can you please provide a solution the last few hours have been a great distraction from my work since the im not sure if this issue is specific to my device or if others have reported similar problems
+T112,"I've noticed a software bug in the {product_purchased} app. It's causing data loss and unexpected errors. How can I resolve this issue? Try running the app from the command line.
+
+Install
+
+$ bin. I'm not sure if this issue is specific to my device or if others have reported similar problems.",Billing inquiry,Low,Open,ive noticed a software bug in the app its causing data loss and unexpected errors how can i resolve this issue try running the app from the command line install bin im not sure if this issue is specific to my device or if others have reported similar problems
+T113,"I'm facing issues logging into my {product_purchased} account. It says my account is locked. What should I do to unlock it? (Yes, log in. No problem.) But if my {product_purchased} I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Technical issue,Low,Open,im facing issues logging into my account it says my account is locked what should i do to unlock it yes log in no problem but if my im concerned about the security of my and would like to ensure that my data is safe
+T114,"I'm having an issue with the {product_purchased}. Please assist.
+
+Product purchased: Yes, you have purchased the correct product
+
+Last Updated: 23 May 2016
+
+Product Status: Out Of Stock
+
+You cannot I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Refund request,Medium,Pending Customer Response,im having an issue with the please assist product purchased yes you have purchased the correct product last updated 23 may 2016 product status out of stock you cannot ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T115,"I'm having an issue with the {product_purchased}. Please assist. I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Cancellation request,Medium,Closed,im having an issue with the please assist ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T116,"I'm unable to access my {product_purchased} account. It keeps displaying an 'Invalid Credentials' error, even though I'm using the correct login information. How can I regain access to my account? All existing passwords have I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Refund request,Low,Open,im unable to access my account it keeps displaying an invalid credentials error even though im using the correct login information how can i regain access to my account all existing passwords have ive followed online tutorials and community forums to troubleshoot the issue but no luck so far
+T117,"I'm having an issue with the {product_purchased}. Please assist.
+
+In the U.S.
+
+C.V.A.M.U.P.A.C.H.C.
+
+A I've checked the device settings and made sure that everything is configured correctly.",Cancellation request,Low,Open,im having an issue with the please assist in the us cvamupachc a ive checked the device settings and made sure that everything is configured correctly
+T118,"I've recently set up my {product_purchased}, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? - You can try sending an email with code: phreak@debian I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Cancellation request,High,Open,ive recently set up my but it fails to connect to any available networks what steps should i take to troubleshoot this issue you can try sending an email with code phreakdebian im unable to find the option to perform the desired action in the could you please guide me through the steps
+T119,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+The following instructions show how to recover the account.
+
+Step 1: Select I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Technical issue,Medium,Closed,ive forgotten my password for my account and the password reset option is not working how can i recover my account the following instructions show how to recover the account step 1 select im unable to find the option to perform the desired action in the could you please guide me through the steps
+T120,"I'm having an issue with the {product_purchased}. Please assist.
+
+* Update, delete, or delete this item
+
+This Item is discontinued, or no longer available.
+
+Please help us keep the order order current I need assistance as soon as possible because it's affecting my work and productivity.",Billing inquiry,High,Open,im having an issue with the please assist update delete or delete this item this item is discontinued or no longer available please help us keep the order order current i need assistance as soon as possible because its affecting my work and productivity
+T121,"I'm having an issue with the {product_purchased}. Please assist. :D
+
+RAW Paste Data
+
+//
+
+# ifndef __init__ #define __FILE__ ""./mhcc_common_linux I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Cancellation request,Low,Pending Customer Response,im having an issue with the please assist d raw paste data ifndef __init__ define __file__ mhcc_common_linux ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem
+T122,"I'm having an issue with the {product_purchased}. Please assist. I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Product inquiry,Low,Open,im having an issue with the please assist ive followed online tutorials and community forums to troubleshoot the issue but no luck so far
+T123,"I'm having an issue with the {product_purchased}. Please assist. I'm not using this product on the basis of something. I could not be bothered to put this on my personal product store, and that's why I'm not This problem started occurring after the recent software update. I haven't made any other changes to the device.",Refund request,Low,Pending Customer Response,im having an issue with the please assist im not using this product on the basis of something i could not be bothered to put this on my personal product store and thats why im not this problem started occurring after the recent software update i havent made any other changes to the device
+T124,"I'm having an issue with the {product_purchased}. Please assist.
+
+We're working on getting it up and running to our userbase! Keep in mind that there's a very small possibility that it may get stuck... I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Refund request,Critical,Closed,im having an issue with the please assist were working on getting it up and running to our userbase keep in mind that theres a very small possibility that it may get stuck im unable to find the option to perform the desired action in the could you please guide me through the steps
+T125,"I'm having an issue with the {product_purchased}. Please assist.
+
+This item is currently unlisted from sale.
+
+It may have been moved.
+
+Please contact us to see if there is an available sale. I need assistance as soon as possible because it's affecting my work and productivity.",Billing inquiry,High,Open,im having an issue with the please assist this item is currently unlisted from sale it may have been moved please contact us to see if there is an available sale i need assistance as soon as possible because its affecting my work and productivity
+T126,"I'm having an issue with the {product_purchased}. Please assist. We're able to use the customer code to ensure everyone is getting the best price possible.
+
+1.13 We're happy to work on this. I'm experiencing this issue on multiple devices of the same model, so it seems to be a widespread problem.",Billing inquiry,High,Open,im having an issue with the please assist were able to use the customer code to ensure everyone is getting the best price possible 113 were happy to work on this im experiencing this issue on multiple devices of the same model so it seems to be a widespread problem
+T127,"I'm having an issue with the {product_purchased}. Please assist.
+
+In this event, you will see a new request that should resolve for you.
+
+If a problem persists, the product and manufacturer message will be updated I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Technical issue,Medium,Closed,im having an issue with the please assist in this event you will see a new request that should resolve for you if a problem persists the product and manufacturer message will be updated im unable to find the option to perform the desired action in the could you please guide me through the steps
+T128,"I'm having an issue with the {product_purchased}. Please assist.
+
+Your Name
+
+Please fill out this field. If you're not allowed to see results, please verify your identity.
+
+If you're not allowed I've checked the device settings and made sure that everything is configured correctly.",Refund request,Low,Closed,im having an issue with the please assist your name please fill out this field if youre not allowed to see results please verify your identity if youre not allowed ive checked the device settings and made sure that everything is configured correctly
+T129,"I'm having an issue with the {product_purchased}. Please assist. This will allow me to get more stuff. I don't have the info on this thing, so if I need it it must be the same as the ""brand The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Product inquiry,Medium,Pending Customer Response,im having an issue with the please assist this will allow me to get more stuff i dont have the info on this thing so if i need it it must be the same as the brand the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T130,"I'm having an issue with the {product_purchased}. Please assist.
+
+If you have an issue while using the product, please contact us, we will be happy to help.
+
+This product is only available directly from us I rely heavily on my {product_purchased} for my daily tasks, and this issue is hindering my productivity.",Billing inquiry,Low,Open,im having an issue with the please assist if you have an issue while using the product please contact us we will be happy to help this product is only available directly from us i rely heavily on my for my daily tasks and this issue is hindering my productivity
+T131,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue?
+
+I am experiencing a I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Technical issue,Low,Closed,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue i am experiencing a ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem
+T132,"I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available? How do I reproduce the problem? Please let me know by email I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Cancellation request,Medium,Open,im encountering a software bug in the whenever i try to perform a specific action the application crashes are there any updates or fixes available how do i reproduce the problem please let me know by email ive noticed a peculiar error message popping up on my screen it says what does it mean
+T133,"The {product_purchased} is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem? - It can, with root, find the system you're using, see if I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Product inquiry,Critical,Closed,the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem it can with root find the system youre using see if ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T134,"I'm having an issue with the {product_purchased}. Please assist.
+
+It seems from this screenshot that we can test the same feature with this:
+
+$ curl https://gist.github.com/brianke I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Refund request,Critical,Closed,im having an issue with the please assist it seems from this screenshot that we can test the same feature with this curl httpsgistgithubcombrianke im concerned about the security of my and would like to ensure that my data is safe
+T135,"I'm having an issue with the {product_purchased}. Please assist. This will reduce the total sales per week for @$40 to $46 per customer.
+
+[Update: We've fixed this by changing $60 into $ I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Cancellation request,Low,Open,im having an issue with the please assist this will reduce the total sales per week for 40 to 46 per customer update weve fixed this by changing 60 into im unable to find the option to perform the desired action in the could you please guide me through the steps
+T136,"There seems to be a hardware problem with my {product_purchased}. The screen is flickering, and I'm unable to use it. What should I do? The first steps are to try and locate a fix for the problem. (See This problem started occurring after the recent software update. I haven't made any other changes to the device.",Refund request,Medium,Pending Customer Response,there seems to be a hardware problem with my the screen is flickering and im unable to use it what should i do the first steps are to try and locate a fix for the problem see this problem started occurring after the recent software update i havent made any other changes to the device
+T137,"I'm having an issue with the {product_purchased}. Please assist.
+
+[07/12/2014, 1:19:23 AM] Ian Cheong: I'm a guy.
+
+[07/12/2014, I rely heavily on my {product_purchased} for my daily tasks, and this issue is hindering my productivity.",Billing inquiry,Low,Open,im having an issue with the please assist 07122014 11923 am ian cheong im a guy 07122014 i rely heavily on my for my daily tasks and this issue is hindering my productivity
+T138,"I'm having an issue with the {product_purchased}. Please assist.
+
+1.7.5 New Features
+
+You can now make the item count in your inventory. No more being stuck behind a table as I write this I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Product inquiry,Critical,Closed,im having an issue with the please assist 175 new features you can now make the item count in your inventory no more being stuck behind a table as i write this im unable to find the option to perform the desired action in the could you please guide me through the steps
+T139,"I'm having an issue with the {product_purchased}. Please assist. - (1) The following items may not be available in your Cart: No.
+
+Bags and Bags 0%
+
+Get our hot and fresh I need assistance as soon as possible because it's affecting my work and productivity.",Cancellation request,Low,Open,im having an issue with the please assist 1 the following items may not be available in your cart no bags and bags 0 get our hot and fresh i need assistance as soon as possible because its affecting my work and productivity
+T140,"I'm having an issue with the {product_purchased}. Please assist. # The $1.99 PLEX is a one time purchase with a purchase of 50 or more, which ends today.
+
+Buy it now This problem started occurring after the recent software update. I haven't made any other changes to the device.",Refund request,Critical,Closed,im having an issue with the please assist the 199 plex is a one time purchase with a purchase of 50 or more which ends today buy it now this problem started occurring after the recent software update i havent made any other changes to the device
+T141,"I'm having an issue with the {product_purchased}. Please assist. I can check this out here.
+
+A couple weeks ago I found a lot of my friends that were interested in the new product. So, I made my I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Technical issue,Critical,Pending Customer Response,im having an issue with the please assist i can check this out here a couple weeks ago i found a lot of my friends that were interested in the new product so i made my ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T142,"I'm having an issue with the {product_purchased}. Please assist. Thank you, Customer service,"" said the online shopowner.
+
+
+""This is my first complaint. I'll go back to the shop, but no more! This problem started occurring after the recent software update. I haven't made any other changes to the device.",Technical issue,Medium,Pending Customer Response,im having an issue with the please assist thank you customer service said the online shopowner this is my first complaint ill go back to the shop but no more this problem started occurring after the recent software update i havent made any other changes to the device
+T143,"I've noticed a software bug in the {product_purchased} app. It's causing data loss and unexpected errors. How can I resolve this issue?
+
+If you have any other information or suggestions about this issue, contact our Customer I've checked the device settings and made sure that everything is configured correctly.",Technical issue,Low,Pending Customer Response,ive noticed a software bug in the app its causing data loss and unexpected errors how can i resolve this issue if you have any other information or suggestions about this issue contact our customer ive checked the device settings and made sure that everything is configured correctly
+T144,"I'm having an issue with the {product_purchased}. Please assist.
+
+• Use the ""Add me here"" dialog to update your cart on my site and to add another cart.
+
+• Select all my other options: I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Cancellation request,Medium,Open,im having an issue with the please assist use the add me here dialog to update your cart on my site and to add another cart select all my other options ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem
+T145,"My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? Please make sure not to enter for this update until I've reached the correct status The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Product inquiry,Low,Open,my is making strange noises and not functioning properly i suspect there might be a hardware issue can you please help me with this please make sure not to enter for this update until ive reached the correct status the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T146,"I'm encountering a software bug in the {product_purchased}. Whenever I try to perform a specific action, the application crashes. Are there any updates or fixes available?
+
+Many bug fixes can be found in the.NET core project I've checked for any available software updates for my {product_purchased}, but there are none.",Billing inquiry,Low,Closed,im encountering a software bug in the whenever i try to perform a specific action the application crashes are there any updates or fixes available many bug fixes can be found in thenet core project ive checked for any available software updates for my but there are none
+T147,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. The {product_purchased} is I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Billing inquiry,Medium,Pending Customer Response,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond the is ive noticed a sudden decrease in battery life on my it used to last much longer
+T148,"I've recently set up my {product_purchased}, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? First and foremost, follow the steps above. Second, make sure the system I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Product inquiry,High,Pending Customer Response,ive recently set up my but it fails to connect to any available networks what steps should i take to troubleshoot this issue first and foremost follow the steps above second make sure the system ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T149,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+I'll post a short email about a reset. Please check my 'contact info I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Product inquiry,High,Pending Customer Response,ive forgotten my password for my account and the password reset option is not working how can i recover my account ill post a short email about a reset please check my contact info ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T150,"I'm having an issue with the {product_purchased}. Please assist.
+
+3. If you see an error, then please try again by sending us an email: [email protected]
+
+5. If you also receive this I've checked for software updates, and my {product_purchased} is already running the latest version.",Product inquiry,Critical,Pending Customer Response,im having an issue with the please assist 3 if you see an error then please try again by sending us an email email protected 5 if you also receive this ive checked for software updates and my is already running the latest version
+T151,"I'm having an issue with the {product_purchased}. Please assist. Thanks. The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Technical issue,Medium,Open,im having an issue with the please assist thanks the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T152,"I'm having an issue with the {product_purchased}. Please assist.
+
+<product_code>1.5</product_code>
+
+2. In the event you don't get the name of the product that you I've already contacted customer support multiple times, but the issue remains unresolved.",Technical issue,Low,Pending Customer Response,im having an issue with the please assist product_code15product_code 2 in the event you dont get the name of the product that you ive already contacted customer support multiple times but the issue remains unresolved
+T153,"I'm having an issue with the {product_purchased}. Please assist.
+
+
+""The best products for your needs.""
+
+- David. (The product purchase can be made as the request, just contact us and the payment level I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Product inquiry,Critical,Closed,im having an issue with the please assist the best products for your needs david the product purchase can be made as the request just contact us and the payment level ive followed the troubleshooting steps mentioned in the user manual but the issue persists
+T154,"I'm having an issue with the {product_purchased}. Please assist. I'm using Amazon S20.com's Advertised Price List.
+
+It doesn't work.
+
+No help.
+
+This page is being I've checked for any available software updates for my {product_purchased}, but there are none.",Billing inquiry,Low,Open,im having an issue with the please assist im using amazon s20coms advertised price list it doesnt work no help this page is being ive checked for any available software updates for my but there are none
+T155,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? Connect the {product_p I'm concerned about the security of my {product_purchased} and would like to ensure that my data is safe.",Billing inquiry,High,Closed,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue connect the and would like to ensure that my data is safe
+T156,"The {product_purchased} is unable to establish a stable internet connection. It keeps disconnecting intermittently. How can I troubleshoot this network problem?
+
+If you want to troubleshoot your firewall, you're looking to I've already contacted customer support multiple times, but the issue remains unresolved.",Cancellation request,Low,Closed,the is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem if you want to troubleshoot your firewall youre looking to ive already contacted customer support multiple times but the issue remains unresolved
+T157,"I'm having an issue with the {product_purchased}. Please assist. Thanks! https://www.winsock.com/product/3359/
+
+[image-1b]
+
+[image-2b] I've already contacted customer support multiple times, but the issue remains unresolved.",Technical issue,Low,Open,im having an issue with the please assist thanks httpswwwwinsockcomproduct3359 image1b image2b ive already contacted customer support multiple times but the issue remains unresolved
+T158,"My {product_purchased} crashed, and I lost all the data stored on it. Is there any way to recover the lost data?
+
+I was using a Microsoft account for the first time so I downloaded the.NET 3. I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Refund request,Critical,Closed,my crashed and i lost all the data stored on it is there any way to recover the lost data i was using a microsoft account for the first time so i downloaded thenet 3 ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T159,"I'm having an issue with the {product_purchased}. Please assist. Please help! Thanks! I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Billing inquiry,Critical,Closed,im having an issue with the please assist please help thanks ive followed online tutorials and community forums to troubleshoot the issue but no luck so far
+T160,I'm having an issue with the {product_purchased}. Please assist. My warranty is life limited. I recommend that you return or exchange this product for an other product. {{product_discount}} I'm not sure if this issue is specific to my device or if others have reported similar problems.,Cancellation request,Critical,Pending Customer Response,im having an issue with the please assist my warranty is life limited i recommend that you return or exchange this product for an other product im not sure if this issue is specific to my device or if others have reported similar problems
+T161,"I'm having an issue with the {product_purchased}. Please assist. My #1 question is: where am I, what does this box have that is sold??
+
+Answer to this is no issue. If you ask who the I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Technical issue,High,Closed,im having an issue with the please assist my 1 question is where am i what does this box have that is sold answer to this is no issue if you ask who the ive noticed a sudden decrease in battery life on my it used to last much longer
+T162,"I'm having an issue with the {product_purchased}. Please assist.
+
+5. If you're still reading, please feel free to suggest new articles to @bluemos_io for ideas.
+
+Thank you for I've noticed a sudden decrease in battery life on my {product_purchased}. It used to last much longer.",Refund request,Low,Open,im having an issue with the please assist 5 if youre still reading please feel free to suggest new articles to bluemos_io for ideas thank you for ive noticed a sudden decrease in battery life on my it used to last much longer
+T163,"I'm having an issue with the {product_purchased}. Please assist.
+
+Thank you for your question, and may this guide help you in resolving this issue. Please add any details you may have to it. I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Technical issue,Medium,Closed,im having an issue with the please assist thank you for your question and may this guide help you in resolving this issue please add any details you may have to it ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T164,"I'm having an issue with the {product_purchased}. Please assist. Sorry, but this is the second time, only to have a different vendor come out to buy that particular product. You would certainly want to have your buyer contact your I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Technical issue,Critical,Closed,im having an issue with the please assist sorry but this is the second time only to have a different vendor come out to buy that particular product you would certainly want to have your buyer contact your im unable to find the option to perform the desired action in the could you please guide me through the steps
+T165,"My {product_purchased} is making strange noises and not functioning properly. I suspect there might be a hardware issue. Can you please help me with this? Thanks..
+
+
+Bud
+
+(1) We're sorry, this I rely heavily on my {product_purchased} for my daily tasks, and this issue is hindering my productivity.",Cancellation request,Low,Pending Customer Response,my is making strange noises and not functioning properly i suspect there might be a hardware issue can you please help me with this thanks bud 1 were sorry this i rely heavily on my for my daily tasks and this issue is hindering my productivity
+T166,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? I tried using this solution: I've tried using different cables, adapters, or peripherals with my {product_purchased}, but the issue persists.",Cancellation request,Critical,Pending Customer Response,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue i tried using this solution ive tried using different cables adapters or peripherals with my but the issue persists
+T167,"I've forgotten my password for my {product_purchased} account, and the password reset option is not working. How can I recover my account?
+
+In case you haven't already, there is a procedure available to recover an account I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Product inquiry,High,Pending Customer Response,ive forgotten my password for my account and the password reset option is not working how can i recover my account in case you havent already there is a procedure available to recover an account ive followed online tutorials and community forums to troubleshoot the issue but no luck so far
+T168,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please try everything. Try this:
+
+[$3] I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Cancellation request,Medium,Closed,im having an issue with the please assist please try everything try this 3 ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T169,"I'm having an issue with the {product_purchased}. Please assist.
+
+Click here for additional information, such as shipping information.
+
+Click here for further information on your warranty. I've followed the troubleshooting steps mentioned in the user manual, but the issue persists.",Technical issue,Critical,Open,im having an issue with the please assist click here for additional information such as shipping information click here for further information on your warranty ive followed the troubleshooting steps mentioned in the user manual but the issue persists
+T170,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please help me spread the word! I am so happy!
+
+Let me start by saying that if my email address is incorrect, you would probably find I've recently updated the firmware of my {product_purchased}, and the issue started happening afterward. Could it be related to the update?",Cancellation request,Critical,Open,im having an issue with the please assist please help me spread the word i am so happy let me start by saying that if my email address is incorrect you would probably find ive recently updated the firmware of my and the issue started happening afterward could it be related to the update
+T171,"I'm having an issue with the {product_purchased}. Please assist. *Note* You can't use a Cydia update file when you are creating this update and after that, only the Cydia update with a custom name... * I've tried troubleshooting steps mentioned in the user manual, but the issue persists.",Cancellation request,High,Closed,im having an issue with the please assist note you cant use a cydia update file when you are creating this update and after that only the cydia update with a custom name ive tried troubleshooting steps mentioned in the user manual but the issue persists
+T172,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond.
+
+If you have your {customer I need assistance as soon as possible because it's affecting my work and productivity.",Product inquiry,Low,Closed,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond if you have your customer i need assistance as soon as possible because its affecting my work and productivity
+T173,"I'm having an issue with the {product_purchased}. Please assist. I didn't put this one on my desk. I think it's something that was not there. I want a copy of the product back to my desk, and I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Billing inquiry,Critical,Open,im having an issue with the please assist i didnt put this one on my desk i think its something that was not there i want a copy of the product back to my desk and ive noticed a peculiar error message popping up on my screen it says what does it mean
+T174,"I'm having an issue with the {product_purchased}. Please assist.
+
+This item is no longer available. It may have expired or been removed. Please visit a recently closed store to see if it is available.
+
+This I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Cancellation request,Critical,Closed,im having an issue with the please assist this item is no longer available it may have expired or been removed please visit a recently closed store to see if it is available this im unable to find the option to perform the desired action in the could you please guide me through the steps
+T175,"I'm having an issue with the {product_purchased}. Please assist. I've added a new product, {id} {product_purchased}, which requires 1 sign-on time and adds an option on the right side to I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Technical issue,Medium,Pending Customer Response,im having an issue with the please assist ive added a new product which requires 1 signon time and adds an option on the right side to im unable to find the option to perform the desired action in the could you please guide me through the steps
+T176,"I'm having an issue with the {product_purchased}. Please assist.
+
+Purchased from:
+
+In the U.S.P.G. with a credit or debit card.
+
+Last updated: 12/ This problem started occurring after the recent software update. I haven't made any other changes to the device.",Technical issue,High,Closed,im having an issue with the please assist purchased from in the uspg with a credit or debit card last updated 12 this problem started occurring after the recent software update i havent made any other changes to the device
+T177,"I'm having an issue with the {product_purchased}. Please assist.
+
+Q: I've added $40,000 in cash at the event. I didn't know that would have happened because the company didn't release anything on I've checked for software updates, and my {product_purchased} is already running the latest version.",Refund request,Critical,Open,im having an issue with the please assist q ive added 40000 in cash at the event i didnt know that would have happened because the company didnt release anything on ive checked for software updates and my is already running the latest version
+T178,"I'm having trouble connecting my {product_purchased} to my home Wi-Fi network. It doesn't detect any networks, although other devices are connecting fine. What can be done to resolve this issue? 1) Remove the ""connect I've checked for software updates, and my {product_purchased} is already running the latest version.",Billing inquiry,High,Pending Customer Response,im having trouble connecting my to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue 1 remove the connect ive checked for software updates and my is already running the latest version
+T179,"I'm having an issue with the {product_purchased}. Please assist. Thanks. Thank your. Thank you. I've performed a factory reset on my {product_purchased}, hoping it would resolve the problem, but it didn't help.",Refund request,Low,Open,im having an issue with the please assist thanks thank your thank you ive performed a factory reset on my hoping it would resolve the problem but it didnt help
+T180,"I'm having an issue with the {product_purchased}. Please assist.
+
+Your product is not currently available.
+
+Please go back and re-download it.
+
+[back to top]
+
+If you see any The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Technical issue,Medium,Open,im having an issue with the please assist your product is not currently available please go back and redownload it back to top if you see any the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T181,"I'm having an issue with the {product_purchased}. Please assist.
+
+I have a $20 bill attached to my phone that I need to get changed at work. If your bill does not work, then I recommend replacing it I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Billing inquiry,Medium,Pending Customer Response,im having an issue with the please assist i have a 20 bill attached to my phone that i need to get changed at work if your bill does not work then i recommend replacing it ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem
+T182,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. If you try to play online, there is I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Cancellation request,Low,Pending Customer Response,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond if you try to play online there is ive noticed a peculiar error message popping up on my screen it says what does it mean
+T183,"I'm having an issue with the {product_purchased}. Please assist.
+
+Product Name: ""Vacation""
+
+Color: Blue
+
+Color Code: R
+
+Quantity: $250 / 30 Pairs The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Refund request,Critical,Open,im having an issue with the please assist product name vacation color blue color code r quantity 250 30 pairs the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T184,"I'm having an issue with the {product_purchased}. Please assist. You have successfully purchased all of the products listed. Your name will appear as the name of Advance. After this message, you may need to reorder the product or I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Refund request,Medium,Closed,im having an issue with the please assist you have successfully purchased all of the products listed your name will appear as the name of advance after this message you may need to reorder the product or im unable to find the option to perform the desired action in the could you please guide me through the steps
+T185,"I'm facing a problem with my {product_purchased}. The {product_purchased} is not turning on. It was working fine until yesterday, but now it doesn't respond. The code is running for 2 seconds."" I've checked for software updates, and my {product_purchased} is already running the latest version.",Refund request,Medium,Open,im facing a problem with my the is not turning on it was working fine until yesterday but now it doesnt respond the code is running for 2 seconds ive checked for software updates and my is already running the latest version
+T186,"I'm having an issue with the {product_purchased}. Please assist.
+
+I am looking for a better place to buy my iPhone.
+
+I've ordered this product now.
+
+Thank you for your great job! I'm unable to find the option to perform the desired action in the {product_purchased}. Could you please guide me through the steps?",Product inquiry,Medium,Open,im having an issue with the please assist i am looking for a better place to buy my iphone ive ordered this product now thank you for your great job im unable to find the option to perform the desired action in the could you please guide me through the steps
+T187,"I'm having an issue with the {product_purchased}. Please assist.
+
+Thanks for your patience! In the meantime you can check your e-mail, Google+ or Telegram.
+
+Thanks for reading. I've checked for software updates, and my {product_purchased} is already running the latest version.",Product inquiry,High,Closed,im having an issue with the please assist thanks for your patience in the meantime you can check your email google or telegram thanks for reading ive checked for software updates and my is already running the latest version
+T188,"I'm having an issue with the {product_purchased}. Please assist. - 1 - 1 -1 -0 ""Void (2) I Love This Car, I Wanna Move It"" - 1 - 1 -1 0 3 I've noticed that the issue occurs consistently when I use a specific feature or application on my {product_purchased}.",Product inquiry,Medium,Open,im having an issue with the please assist 1 1 1 0 void 2 i love this car i wanna move it 1 1 1 0 3 ive noticed that the issue occurs consistently when i use a specific feature or application on my
+T189,"I've encountered a data loss issue with my {product_purchased}. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them?
+
+If you have a ""download_metadata"" error but have I've checked for software updates, and my {product_purchased} is already running the latest version.",Product inquiry,High,Pending Customer Response,ive encountered a data loss issue with my all the files and documents seem to have disappeared can you guide me on how to retrieve them if you have a download_metadata error but have ive checked for software updates and my is already running the latest version
+T190,"I'm having an issue with the {product_purchased}. Please assist.
+
+0 I've already contacted customer support multiple times, but the issue remains unresolved.",Cancellation request,Critical,Pending Customer Response,im having an issue with the please assist 0 ive already contacted customer support multiple times but the issue remains unresolved
+T191,"I'm having an issue with the {product_purchased}. Please assist.
+
+I'm having an issue with the {product_purchased}. Please assist. In the US the company you purchased the original from has a fee of I've followed online tutorials and community forums to troubleshoot the issue, but no luck so far.",Refund request,High,Open,im having an issue with the please assist im having an issue with the please assist in the us the company you purchased the original from has a fee of ive followed online tutorials and community forums to troubleshoot the issue but no luck so far
+T192,"I've recently set up my {product_purchased}, but it fails to connect to any available networks. What steps should I take to troubleshoot this issue? Let me know.
+
+Update: The issue is getting on my laptop I've reviewed the troubleshooting steps on the official support website, but they didn't resolve the problem.",Technical issue,High,Open,ive recently set up my but it fails to connect to any available networks what steps should i take to troubleshoot this issue let me know update the issue is getting on my laptop ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem
+T193,"I'm having an issue with the {product_purchased}. Please assist. Thanks in return.""
+
+""Thanks for understanding.""
+
+""Thank you for sharing.""
+
+""Sorry.""
+
+""Please do not forget. Sorry I've checked the device settings and made sure that everything is configured correctly.",Billing inquiry,High,Closed,im having an issue with the please assist thanks in return thanks for understanding thank you for sharing sorry please do not forget sorry ive checked the device settings and made sure that everything is configured correctly
+T194,"I'm having an issue with the {product_purchased}. Please assist. If you are running into issues like this, please use the issue tracker or contact us.
+
+This issue was created by an original member.
+
+Forum This problem started occurring after the recent software update. I haven't made any other changes to the device.",Technical issue,Medium,Open,im having an issue with the please assist if you are running into issues like this please use the issue tracker or contact us this issue was created by an original member forum this problem started occurring after the recent software update i havent made any other changes to the device
+T195,"I'm having an issue with the {product_purchased}. Please assist. Thank you. And there is no further request.
+
+This will be the first shipment of your products. Please bring your purchases back to us after you've shipped I've noticed a peculiar error message popping up on my {product_purchased} screen. It says '{error_message}'. What does it mean?",Cancellation request,Medium,Open,im having an issue with the please assist thank you and there is no further request this will be the first shipment of your products please bring your purchases back to us after youve shipped ive noticed a peculiar error message popping up on my screen it says what does it mean
+T196,"I'm having an issue with the {product_purchased}. Please assist. I'm trying to figure out which product to check.
+
+Q: What is the current availability of your product and how many units will I be able to ship The issue I'm facing is intermittent. Sometimes it works fine, but other times it acts up unexpectedly.",Product inquiry,Low,Pending Customer Response,im having an issue with the please assist im trying to figure out which product to check q what is the current availability of your product and how many units will i be able to ship the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly
+T197,"I'm having an issue with the {product_purchased}. Please assist.
+
+- Support, not just the people around you - please help
+
+- Support us at rk.com if you are having trouble with this. I've tried clearing the cache and data for the {product_purchased} app, but the issue persists.",Billing inquiry,High,Closed,im having an issue with the please assist support not just the people around you please help support us at rkcom if you are having trouble with this ive tried clearing the cache and data for the app but the issue persists
+T198,"I'm having an issue with the {product_purchased}. Please assist.
+
+Please support my use of the products as directed by the author and/or others, and get to know my other customers. Thank you.
+
+The I'm using the original charger that came with my {product_purchased}, but it's not charging properly.",Product inquiry,Medium,Pending Customer Response,im having an issue with the please assist please support my use of the products as directed by the author andor others and get to know my other customers thank you the im using the original charger that came with my but its not charging properly
+T199,"I'm having an issue with the {product_purchased}. Please assist. Please update your purchase. Please, if possible, update your name on the new order page within the checkout link.
+
+The product number (5), it may I've already contacted customer support multiple times, but the issue remains unresolved.",Technical issue,Medium,Pending Customer Response,im having an issue with the please assist please update your purchase please if possible update your name on the new order page within the checkout link the product number 5 it may ive already contacted customer support multiple times but the issue remains unresolved
+T200,"I've noticed a software bug in the {product_purchased} app. It's causing data loss and unexpected errors. How can I resolve this issue?
+
+To download the file, click the Download button located in the app drawer at I've already contacted customer support multiple times, but the issue remains unresolved.",Product inquiry,Critical,Closed,ive noticed a software bug in the app its causing data loss and unexpected errors how can i resolve this issue to download the file click the download button located in the app drawer at ive already contacted customer support multiple times but the issue remains unresolved
